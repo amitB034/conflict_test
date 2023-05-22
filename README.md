@@ -1,3 +1,3 @@
 # conflict_test
 ## conflict test1
-but-3
+-but 2
